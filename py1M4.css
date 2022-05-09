@@ -1,0 +1,12 @@
+ body {
+     color: blue;
+     background-color: black;
+     margin-block-start: 10px;
+     margin-left: 100px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: medium;
+     
+}
+p {
+    font-style: italic;
+}
